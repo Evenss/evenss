@@ -1,7 +1,7 @@
 ## Hi, I'm Even 👋
 
 
-I build things that are interesting to explore and useful enough to keep.
+I build things people enjoy exploring and actually want to use.
 
 
 ### Working
