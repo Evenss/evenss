@@ -1,15 +1,19 @@
-## Hi, I'm OneLine Even 👋
+## Hi, I'm Even 👋
+
 
 I build things that are interesting to explore and useful enough to keep.
 
-## Working 💼
+
+### Working
+
 
 Senior Engineer **@ OceanBase, Ant Group**.  
 Working on open source ecosystem and developer tools.
 
-## Building 💬
 
-- [powermem](https://github.com/oceanbase/powermem)  Memory infrastructure for AI agents.
+### Building 💬
+
+- [PowerMem](https://github.com/oceanbase/powermem)  Memory infrastructure for AI agents.
 
 <!--
 **Evenss/evenss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
