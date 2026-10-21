@@ -6,12 +6,10 @@ I build things people enjoy exploring and actually want to use.
 
 ### Working
 
-
-Senior Engineer **@ OceanBase, Ant Group**.  
-Working on open source ecosystem and developer tools.
+Senior Engineer **@ Ant Group**.  
 
 
-### Building 💬
+### Build 💬
 
 - [PowerMem](https://github.com/oceanbase/powermem)  Memory infrastructure for AI agents.
 
